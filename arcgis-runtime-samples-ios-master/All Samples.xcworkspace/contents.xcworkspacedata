@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "AsynchronousGP">
+      <Group
+         location = "container:"
+         name = "Swift">
+         <FileRef
+            location = "group:AsynchronousGPSample/swift/AsynchronousGP.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "Objective-C">
+         <FileRef
+            location = "group:AsynchronousGPSample/objective-c/AsynchronousGPSample.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:ClosestFacilitySample/ClosestFacilitySample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CustomCalloutSample/CustomCalloutSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CustomTiledLayerSample/CustomTiledLayerSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DownloadTileCacheSample/DownloadTileCacheSample.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "FeatureLayerEditing">
+      <Group
+         location = "container:"
+         name = "Swift">
+         <FileRef
+            location = "group:FeatureLayerEditingSample/swift/FeatureLayerEditing.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "Objective-C">
+         <FileRef
+            location = "group:FeatureLayerEditingSample/objective-c/FeatureLayerEditingSample.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:FindTaskSample/FindTaskSample.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:GenerateRendererSample"
+      name = "GenerateRendererSample">
+      <Group
+         location = "group:objective-c"
+         name = "objective-c">
+         <FileRef
+            location = "group:GenerateRendererSample.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Geocoding">
+      <Group
+         location = "container:"
+         name = "Swift">
+         <FileRef
+            location = "group:GeocodingSample/swift/Geocoding/Geocoding.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "Objective-C">
+         <FileRef
+            location = "group:GeocodingSample/objective-c/GeocodingSample.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:GeodesicSketchingSample/GeodesicSketchingSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GeometrySample/GeometrySample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GeometryServiceTaskSample/GeometryServiceTaskSample.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Gps">
+      <Group
+         location = "container:"
+         name = "Swift">
+         <FileRef
+            location = "group:GpsSample/swift/Gps/Gps.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "Objective-C">
+         <FileRef
+            location = "group:GpsSample/objective-c/GpsSample.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:GPSSketchingSample/GpsSketchingSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GraphicsSample/GraphicsSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IdentifyTaskSample/IdentifyTaskSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LegendSample/LegendSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LicenseByOrgAccountSample/LicenseByOrgAccountSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LocalTiledLayerSample/LocalTiledLayerSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MessageMil2525cSample/MessageMil2525cSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OAuth Login Sample/OAuthLoginSample.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "OfflineFeatureEditing">
+      <Group
+         location = "container:"
+         name = "Swift">
+         <FileRef
+            location = "group:OfflineFeatureEditingSample/swift/OfflineFeatureEditing.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "Objective-C">
+         <FileRef
+            location = "group:OfflineFeatureEditingSample/objective-c/OfflineFeatureEditingSample.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "OfflineGeocoding">
+      <Group
+         location = "container:"
+         name = "Swift">
+         <FileRef
+            location = "group:OfflineGeocodingSample/swift/OfflineGeocoding.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "Objective-C">
+         <FileRef
+            location = "group:OfflineGeocodingSample/objective-c/OfflineGeocodingSample.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "OfflineRouting">
+      <Group
+         location = "container:"
+         name = "Swift">
+         <FileRef
+            location = "group:OfflineRoutingSample/swift/OfflineRouting.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "Objective-C">
+         <FileRef
+            location = "group:OfflineRoutingSample/objective-c/OfflineRoutingSample.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Popup">
+      <Group
+         location = "container:"
+         name = "Swift">
+         <FileRef
+            location = "group:PopupSample/swift/Popup.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "Objective-C">
+         <FileRef
+            location = "group:PopupSample/objective-c/PopupSample.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:PortalExplorerSample/PortalExplorerSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:QueryTaskSample/QueryTaskSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RelatedRecordEditingSample/RelatedRecordEditingSample.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Routing">
+      <Group
+         location = "container:"
+         name = "Swift">
+         <FileRef
+            location = "group:RoutingSample/swift/Routing/Routing.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "Objective-C">
+         <FileRef
+            location = "group:RoutingSample/objective-c/RoutingSample.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:ServiceAreaSample/ServiceAreaSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SketchLayerSample/SketchLayerSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SynchronousGPSample/SynchronousGPSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TableOfContentsSample/TableOfContentsSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TemporalSample/TemporalSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:WeatherInfoSample/WeatherInfoSample.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Webmap">
+      <Group
+         location = "container:"
+         name = "Swift">
+         <FileRef
+            location = "group:WebmapSample/swift/Webmap.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
+         name = "Objective-C">
+         <FileRef
+            location = "group:WebmapSample/objective-c/WebmapSample.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
